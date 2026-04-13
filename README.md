@@ -58,5 +58,4 @@ For educational purposes only.
 
 ---
 
-If you want **even shorter (like 2–3 lines only)**, tell me 👍
 ```
